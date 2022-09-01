@@ -1,1 +1,1 @@
-my readme for 0x00 Shell basics
+my readme for shell navigation course
